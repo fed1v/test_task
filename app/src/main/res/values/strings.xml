@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test_task</string>
+    <string name="textview_number_1">number_1</string>
+    <string name="textview_number_2">number_2</string>
+    <string name="go_to_first_activity">Go to first activity</string>
+    <string name="go_to_second_activity">Go to second activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="first_activity">First Activity</string>
+</resources>
